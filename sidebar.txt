@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lig:home|Door43 (lig)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lig|d43-lig repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lig/archive/master.zip|d43-lig.zip]]
+
+**Recent Changes**
+{{changes>ns = lig}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lig|Ethnologue data]]
+
